@@ -1,0 +1,11 @@
+C:\Users\Boss\source\repos\rocket\rocket\bin\Debug\netcoreapp3.0\rocket.exe
+C:\Users\Boss\source\repos\rocket\rocket\bin\Debug\netcoreapp3.0\rocket.deps.json
+C:\Users\Boss\source\repos\rocket\rocket\bin\Debug\netcoreapp3.0\rocket.runtimeconfig.json
+C:\Users\Boss\source\repos\rocket\rocket\bin\Debug\netcoreapp3.0\rocket.runtimeconfig.dev.json
+C:\Users\Boss\source\repos\rocket\rocket\bin\Debug\netcoreapp3.0\rocket.dll
+C:\Users\Boss\source\repos\rocket\rocket\bin\Debug\netcoreapp3.0\rocket.pdb
+C:\Users\Boss\source\repos\rocket\rocket\obj\Debug\netcoreapp3.0\rocket.csprojAssemblyReference.cache
+C:\Users\Boss\source\repos\rocket\rocket\obj\Debug\netcoreapp3.0\rocket.AssemblyInfoInputs.cache
+C:\Users\Boss\source\repos\rocket\rocket\obj\Debug\netcoreapp3.0\rocket.AssemblyInfo.cs
+C:\Users\Boss\source\repos\rocket\rocket\obj\Debug\netcoreapp3.0\rocket.dll
+C:\Users\Boss\source\repos\rocket\rocket\obj\Debug\netcoreapp3.0\rocket.pdb
